@@ -8,7 +8,6 @@ module.exports.fizzBuzz = function (num) {
       console.log(fizz);
     } else if (i % 5 === 0) {
       console.log(buzz);
-
     }
   }
 }
